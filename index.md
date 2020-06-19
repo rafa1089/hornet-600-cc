@@ -18,12 +18,10 @@ Em 2003, eles mudaram as capas dos relógios, espelhos e muito mais, mas mais im
 Modelo 2003  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2003.jpg).
 
 
-<p>Para assistir a historia e evolação da moto  [clique aqui](https://www.youtube.com/watch?v=ef30y6Z94Ho).</p>
+Para assistir a historia e evolação da moto  [clique aqui](https://www.youtube.com/watch?v=ef30y6Z94Ho).
 
 
-2005, mantém a traseira, mas ela muda o garfo para invertido e adiciona uma mini-bolha.
-
-Modelo 2005  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2005.jpg).
+2005, mantém a traseira, mas ela muda o garfo para invertido e adiciona uma mini-bolha. Modelo 2005  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2005.jpg).
 
 ### Jekyll Themes
 
