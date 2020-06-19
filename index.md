@@ -10,7 +10,7 @@ A denominação "F" em seu nome indica ter um motor de 4 cilindros (F=four). pos
 
 Ao contrário do que muitos pensam, a CB 600F Hornet não e a sucessora da <b>CB 500</b>. Apesar de cilindradas parecidas, são motos completamente diferentes. A CB 600F herdou o motor das CBR 600F/CBR 600RR, o que significa que ela possui um motor 4 cilindros em linha com 96/102 cv de potência. Já a CB 500 possui um motor bi-cilindrico que desenvolve 54 cv de potencia. Isso significa que a Hornet possui quase o dobro da potência da CB 500, que por sua vez é uma evolução das CBS 400 e 450.
 
-###Evolução da hornet
+### Evolução da hornet
 
 <p>Primeiro modelo 1998  [clique aqui](https://br.wheelsage.org/honda/cb_series/gallery/ensfkp).</p>
 
@@ -33,10 +33,11 @@ O painel de instrumentos realçado sobre o farol.
 Suporte e capa do painel na cor da moto.
 Suspensões com regulagens.
 Agora o painel está totalmente digital, e posicionado na horizontal e integrado , ao conjunto óptico dianteiro, mais discreto e harmônico com as linhas da moto;
-A traseira, mais pontiaguda, com destaque para o novo formato da lanterna, com LEDs, e a ausência das alças para o garupa. O encaixe para as mãos agora fica em um recorte na rabeta.
+A traseira, mais pontiaguda, com destaque para o novo formato da lanterna, com LEDs, e a ausência das alças para o garupa. O encaixe para as mãos agora fica em um recorte na rabeta. Modelo 2007  [clique aqui](https://motobr.files.wordpress.com/2011/05/hornet-2011.jpg).
+
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafa1089/hornet-600-cc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-#### Support or Contact
+### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
