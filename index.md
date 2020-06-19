@@ -1,5 +1,5 @@
 # Hornet 600 cc
-A mais querida entre os apaixonados por motociclismo, a Honda Hornet, com seus 20 anos de história, tem hoje uma legião de fãs que acompanham todas as novidades da motocicleta mais popular da Honda.</p>
+A mais querida entre os apaixonados por motociclismo, a Honda Hornet, com seus mais de 20 anos de história, tem hoje uma legião de fãs que acompanham todas as novidades da motocicleta mais popular da Honda.</p>
 
 Fabricada <b>primeiramente no Japão em 1998</b>, a Honda Hornet – nome que vem do inglês, zangão ou vespa, que veio devido ao formato da traseira elevada e gordinha, como o pequeno inseto, – conta com mais de 48 mil unidades vendidas em solo nacional. Seu lançamento por aqui em 2004, trouxe várias inovações para a época e detalhes e equipamentos que ainda não eram vistos em outros modelos. ### Sigunificado do F A denominação "F" em seu nome indica ter um motor de 4 cilindros (F=four). possui um elevado torque e velocidade final em torno de 220 km/h, e a aceleração de 0 a 100 km/h se dá em 4,5 s. A Hornet é equipada com duplo disco flutuante dianteiro e disco simples traseiro, ambos derivados da CBR 600 F/CBR
 
