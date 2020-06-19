@@ -8,8 +8,14 @@ A denominação "F" em seu nome indica ter um motor de 4 cilindros (F=four). pos
 
 #### A Hornet é sucessora da CB 500?
 
-Ao contrário do que muitos pensam, a CB 600F Hornet não e a sucessora da <b>CB 500</b>. Apesar de cilindradas parecidas, são motos completamente diferentes. A CB 600F herdou o motor das CBR 600F/CBR 600RR, o que significa que ela possui um motor 4 cilindros em linha com 96/102 cv de potência. Já a CB 500 possui um motor bi-cilindrico que desenvolve 54 cv de potencia. Isso significa que a Hornet possui quase o dobro da potência da CB 500, que por sua vez é uma evolução das CBS 400 e 450
+Ao contrário do que muitos pensam, a CB 600F Hornet não e a sucessora da <b>CB 500</b>. Apesar de cilindradas parecidas, são motos completamente diferentes. A CB 600F herdou o motor das CBR 600F/CBR 600RR, o que significa que ela possui um motor 4 cilindros em linha com 96/102 cv de potência. Já a CB 500 possui um motor bi-cilindrico que desenvolve 54 cv de potencia. Isso significa que a Hornet possui quase o dobro da potência da CB 500, que por sua vez é uma evolução das CBS 400 e 450.
 
+##### Evolução da hornet
+
+Primeiro modelo 1998  [clique aqui](https://br.wheelsage.org/honda/cb_series/gallery/ensfkp).
+
+Em 2003, eles mudaram as capas dos relógios, espelhos e muito mais, mas mais importante foi o estilo da rabeta e o novo escape oval
+Modelo 2003  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2003.jpg).
 
 
 Para assistir a historia e evolação da moto  [clique aqui](https://www.youtube.com/watch?v=ef30y6Z94Ho).
