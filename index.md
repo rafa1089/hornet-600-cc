@@ -12,7 +12,7 @@ Ao contrário do que muitos pensam, a CB 600F Hornet não e a sucessora da <b>CB
 
 ##### Evolução da hornet
 
-Primeiro modelo 1998  [clique aqui](https://br.wheelsage.org/honda/cb_series/gallery/ensfkp).
+<p>Primeiro modelo 1998  [clique aqui](https://br.wheelsage.org/honda/cb_series/gallery/ensfkp).</p>
 
 Em 2003, eles mudaram as capas dos relógios, espelhos e muito mais, mas mais importante foi o estilo da rabeta e o novo escape oval. 
 Modelo 2003  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2003.jpg).
@@ -20,11 +20,10 @@ Modelo 2003  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_horn
 
 <p>Para assistir a historia e evolação da moto  [clique aqui](https://www.youtube.com/watch?v=ef30y6Z94Ho).</p>
 
-<P>Modelo 1998  [clique aqui](https://br.wheelsage.org/honda/cb_series/gallery/ensfkp).</p>
 
-<p>2005, mantém a traseira, mas ela muda o garfo para invertido e adiciona uma mini-bolha.</p>
+2005, mantém a traseira, mas ela muda o garfo para invertido e adiciona uma mini-bolha.
 
-<P>Modelo 2005  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2005.jpg).</p>
+Modelo 2005  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2005.jpg).
 
 ### Jekyll Themes
 
