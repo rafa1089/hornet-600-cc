@@ -23,10 +23,20 @@ Para assistir a historia e evolação da moto  [clique aqui](https://www.youtube
 
 2005, mantém a traseira, mas ela muda o garfo para invertido e adiciona uma mini-bolha. Modelo 2005  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2005.jpg).
 
-### Jekyll Themes
+E, finalmente, o de 2007. A alteração de design é esmagadora, ele perde a característica de conservadorismo do modelo.odelo 2005  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2007.jpg).
+
+A Hornet 2011 foi lançada no Salão de Milão e deve chegar às concessionárias italianas em fevereiro do próximo ano, ao preço de 7.700 Euros (cerca de R$ 21.500). Quanto aos brasileiros resta conhecer as novas mudanças visuais e esperar para que logo a nova moto desembarque no mercado nacional. Principalmente pelas suspensões com regulagens que devem fazer sucesso entre os pilotos mais exigentes.
+
+###### Principais mudanças no modelo
+
+O painel de instrumentos realçado sobre o farol.
+Suporte e capa do painel na cor da moto.
+Suspensões com regulagens.
+Agora o painel está totalmente digital, e posicionado na horizontal e integrado , ao conjunto óptico dianteiro, mais discreto e harmônico com as linhas da moto;
+A traseira, mais pontiaguda, com destaque para o novo formato da lanterna, com LEDs, e a ausência das alças para o garupa. O encaixe para as mãos agora fica em um recorte na rabeta.
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafa1089/hornet-600-cc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+####### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
