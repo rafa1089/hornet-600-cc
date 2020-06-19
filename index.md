@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Para assistir a historia e evolação da moto  [clique aqui](https://www.youtube.com/watch?v=ef30y6Z94Ho).
 
 ### Jekyll Themes
 
