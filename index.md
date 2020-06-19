@@ -14,7 +14,7 @@ Ao contrário do que muitos pensam, a CB 600F Hornet não e a sucessora da <b>CB
 
 Primeiro modelo 1998  [clique aqui](https://br.wheelsage.org/honda/cb_series/gallery/ensfkp).
 
-Em 2003, eles mudaram as capas dos relógios, espelhos e muito mais, mas mais importante foi o estilo da rabeta e o novo escape oval
+Em 2003, eles mudaram as capas dos relógios, espelhos e muito mais, mas mais importante foi o estilo da rabeta e o novo escape oval. 
 Modelo 2003  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_2003.jpg).
 
 
