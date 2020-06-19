@@ -14,7 +14,7 @@ Ao contrário do que muitos pensam, a CB 600F Hornet não e a sucessora da <b>CB
 
 Para assistir a historia e evolação da moto  [clique aqui](https://www.youtube.com/watch?v=ef30y6Z94Ho).
 
-Modelo 1998  [clique aqui](https://motobr.files.wordpress.com/2011/05/honda_hornet600_1998.jpg).
+Modelo 1998  [clique aqui](https://br.wheelsage.org/honda/cb_series/gallery/ensfkp).
 
 ### Jekyll Themes
 
