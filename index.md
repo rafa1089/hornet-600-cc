@@ -36,8 +36,3 @@ Agora o painel está totalmente digital, e posicionado na horizontal e integrado
 A traseira, mais pontiaguda, com destaque para o novo formato da lanterna, com LEDs, e a ausência das alças para o garupa. O encaixe para as mãos agora fica em um recorte na rabeta. Modelo 2011  [clique aqui](https://motobr.files.wordpress.com/2011/05/hornet-2011.jpg).
 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafa1089/hornet-600-cc/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
